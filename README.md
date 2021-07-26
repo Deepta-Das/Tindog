@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog , a tinder clone for dogs.
